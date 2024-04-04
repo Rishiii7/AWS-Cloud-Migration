@@ -2,7 +2,7 @@
 
 Simulating Real-World problem of migrating an "on-premises" application & database to Multicloud Architecture.
 
-https://share.vidyard.com/watch/3LkXhhKr5W3fPdY6ECt6Mh?
+![Video App](https://share.vidyard.com/watch/3LkXhhKr5W3fPdY6ECt6Mh?)
 
 
 ### Walkthrough of how to deploy
